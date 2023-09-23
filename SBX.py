@@ -103,9 +103,9 @@ def o():
         MUHIBrndm()
     if me in ["2","02"]:
       #  os.system('xdg-open https://m.me/j/AbawyGC1rxjL3qc3/')
-    if me in ["3","03"]:
+   # if me in ["3","03"]:
        # os.system("xdg-open https://facebook.com/its.muhib.7")
-    if me in ["E","e"]:
+    #if me in ["E","e"]:
         os.system('exit')
 #-------ADMIN-INFO-MENU-------#
 #-----RANDOM-NUMBER-----#
